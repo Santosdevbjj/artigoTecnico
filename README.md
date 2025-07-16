@@ -5,7 +5,7 @@
 
 **Criando Artigos Técnicos com ChatGPT e Lexica.art**
 
-Objetivo:
+**Objetivo:** 
 Criar um artigo tecnico de qualidade usando o ChatGPT e Lexic.art
 
 
