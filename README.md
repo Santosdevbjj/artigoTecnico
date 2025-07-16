@@ -21,7 +21,7 @@ Criar um artigo tecnico de qualidade usando o ChatGPT e Lexic.art
 
 
 
-💻 **Tecnologias utilizadas no projeto**
+💻 **Tecnologias utilizadas no projeto:**
 **ChatGPT** - para título e conteúdo
 **Lexica.art** - para gerar imagens
 **PowerPoint** - Para formatação de banners e Layouts
