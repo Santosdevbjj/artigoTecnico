@@ -1,6 +1,8 @@
 ## Python e a Revolução do Data Science: De Numpy ao Machine Learning" — com foco nas bibliotecas que transformaram a linguagem.
 
 
+<img width="1080" height="1565" alt="Screenshot_20250716-175503" src="https://github.com/user-attachments/assets/6389a006-cd5a-41e8-8c89-d7dc254a1d9b" />
+
 
 1️⃣ **Introdução e NumPy – A base**
 NumPy foi criado em 2005 e revolucionou o cálculo numérico com arrays n‑dimensionais eficientes  .
