@@ -1,4 +1,4 @@
-## Formação ChatGPT for Devs.
+## Formação ChatGPT for Devs. Ministrado pela DIO.
 
 ![chadevpor](https://github.com/user-attachments/assets/15f41452-71c9-4e3b-8cc0-cf6443828d6d)
 
