@@ -10,7 +10,6 @@ Criar um artigo tecnico de qualidade usando o ChatGPT e Lexic.art
 
 
 
-
 **CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE**
 
 - Definir o assunto
@@ -19,4 +18,23 @@ Criar um artigo tecnico de qualidade usando o ChatGPT e Lexic.art
 - Blocos do artigo
 - Postar o artigo com um call to action
 
- 
+
+
+
+💻 **Tecnologias utilizadas no projeto**
+**ChatGPT** - para título e conteúdo
+**Lexica.art** - para gerar imagens
+**PowerPoint** - Para formatação de banners e Layouts
+
+
+## ✅ Prompts Utilizados:
+
+1- Quero um título para escrever um artigo sobre a linguagem de programação python. Me sugira 10 títulos.
+
+2 - Você é um exímio developer com muita experiência, de nível sênior. E também um excelente escritor de temas técnicos. Escreva um artigo para ser publicado no GitHub usando todo o seu conhecimento sobre o seguinte assunto: **Python e a Revolução do Data Science: De Numpy ao Machine Learning"**
+**— com foco nas bibliotecas que transformaram a linguagem.** Estruture o arquivo em blocos, tendo 5 linhas por bloco.  Cite exemplos práticos de código e aplicações. Faça também um call to action para as redes sociais. Coloque 4 hashtags que façam sentido.
+
+
+
+
+
